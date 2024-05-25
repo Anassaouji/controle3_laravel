@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Unit\\TechnicienTest::test_technicien_created_event_is_dispatched":8},"times":{"Tests\\Unit\\TechnicienTest::test_technicien_created_event_is_dispatched":0.065}}
